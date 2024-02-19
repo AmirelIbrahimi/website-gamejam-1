@@ -56,6 +56,7 @@ main{
     flex-direction: row;
     background-color: #172022;
     padding-left: 2%;
+    flex-wrap: wrap;
 }
 .trailer-container{
     display: flex;
@@ -73,4 +74,70 @@ main{
     justify-content: center;
     align-items: center;
 }
-
+/* hier begint ABOUT */
+.about-container{
+    display: flex;
+    width: 40%;
+    height: 700px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+}
+.about-title{
+    display: flex;
+    height: 120px;
+    width: 40%;
+    justify-content: left;
+    align-items: center;
+}
+.about-text{
+    display: flex;
+    height: 50%;
+    width: 40%;
+    justify-content: left;
+    align-items: center;
+}
+.about-text2{
+    display: flex;
+    height: 50%;
+    width: 40%;
+    justify-content: left;
+    align-items: center;
+}
+.about-games-container{
+    display: flex;
+    width: 60%;
+    height: 900px;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-games-img{
+    display: flex;
+    width: 90%;
+    height: 600px;
+    justify-content: space-between;
+    align-items: center;
+}
+.our-team-container{
+    display: flex;
+    width: 100%;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.our-team{
+    display: flex;
+    width: 80%;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+}
+.our-team-title{
+    display: flex;
+    width: 80%;
+    height: 10%;
+    justify-content: left;
+    align-items: center;
+}
