@@ -17,13 +17,14 @@ body{
     height: auto;
     display: flex;
     flex-direction: column;
+    background-color: #172022;
 }
 nav{
     display: flex;
     flex-direction: row;
-    background-color: #392c42;
-    background-image: linear-gradient( to right, #392c42, #172022 );
-    width: 100%;
+    background-color: #172022;
+    background-image: linear-gradient( to right, #392c42, #392c4200 );
+    width: 80%;
     height: 125px;
 }
 .nav-logo-container{
