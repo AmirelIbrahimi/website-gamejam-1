@@ -263,8 +263,6 @@ main{
     height: 600px;
     width: auto;
 }
-
-/* eindicht about */
 .container-text{
     height: 400px;
     width: 100%;
@@ -278,7 +276,6 @@ main{
 .col-75{
     width: 75%;
     height: auto;
-    background-color: #FF3B81;
     padding-right: 2%;
 }
 .col-25{
@@ -288,7 +285,18 @@ main{
 }
 .nijmegen{
     padding-right: 2%; 
+    display: flex;
+    height: auto;
+    width: 75%;
 }
+.studio-nijmegen{
+    width: 50%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* eindicht about */
 
 
 /* .niks-row-our-game{
