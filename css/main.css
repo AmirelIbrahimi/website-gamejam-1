@@ -217,7 +217,22 @@ main{
 }
 .col-50-body{
     background-color: #172022;
+    display: flex;
+    flex-direction: column;
 }
-.col-50-body{
+.niks-row-our-game{
+    height: 80px;
+    width: 100%;
+}
+.text-blok{
+    height: 100px;
+    width: 20%;
+    /* display: flex; */
+    justify-content: end;
     background-color: #172022;
+}
+.row-niks-text{
+    height: 30px;
+    width: 100%;
+    background-color: antiquewhite;
 }
