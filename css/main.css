@@ -151,11 +151,12 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    margin-bottom: 200px;
 }
 .our-team{
     display: flex;
     width: 80%;
-    height: 1000px;
+    height: 1100px;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
@@ -178,7 +179,6 @@ main{
     display: flex;
     width: 25%;
     height: 80%;
-    background-color: red;
     justify-content: right;
     align-items: end;
     flex-direction: column;
@@ -187,13 +187,13 @@ main{
     display: flex;
     width: 100%;
     height: 100%;
+    border-radius: 25px 25px 0px 25px;
 }
 .developer-container{
     display: flex;
-    width: 35%;
+    width: 45%;
     height: 12%;
-    background-color: gray;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     font-size: 1.1rem;
 }
@@ -201,7 +201,6 @@ main{
     display: flex;
     width: 25%;
     height: 80%;
-    background-color: red;
     justify-content: right;
     align-items: end;
     flex-direction: column;
@@ -210,12 +209,12 @@ main{
     display: flex;
     width: 100%;
     height: 100%;
+    border-radius: 25px 25px 0px 25px;
 }
 .photo-container3{
     display: flex;
     width: 25%;
     height: 80%;
-    background-color: red;
     justify-content: right;
     align-items: end;
     flex-direction: column;
@@ -224,6 +223,7 @@ main{
     display: flex;
     width: 100%;
     height: 100%;
+    border-radius: 25px 25px 0px 25px;
 }
 .our-team-photos-container2{
     display: flex;
@@ -236,28 +236,43 @@ main{
     display: flex;
     width: 25%;
     height: 80%;
-    background-color: red;
     justify-content: right;
     align-items: end;
     flex-direction: column;
+}
+.hero-photo{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px 25px 0px 25px;
 }
 .photo-container5{
     display: flex;
     width: 25%;
     height: 80%;
-    background-color: red;
     justify-content: right;
     align-items: end;
     flex-direction: column;
+}
+.zoe-photo{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px 25px 0px 25px;
 }
 .photo-container6{
     display: flex;
     width: 25%;
     height: 80%;
-    background-color: red;
     justify-content: right;
     align-items: end;
     flex-direction: column;
+}
+.puck-photo{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px 25px 0px 25px;
 }
 .container-studio-nijmegen{
     height: 600px;
