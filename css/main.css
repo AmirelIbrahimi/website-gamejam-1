@@ -76,7 +76,13 @@ main{
     justify-content: center;
     align-items: center;
 }
-/* hier begint ABOUT */
+/* hier begint ABOUT 
+*
+*
+*
+*
+*
+*/
 .about-container{
     display: flex;
     width: 40%;
@@ -96,14 +102,14 @@ main{
 .about-text{
     display: flex;
     height: 50%;
-    width: 40%;
+    width: 50%;
     justify-content: left;
     align-items: center;
 }
 .about-text2{
     display: flex;
     height: 50%;
-    width: 40%;
+    width: 50%;
     justify-content: left;
     align-items: center;
 }
