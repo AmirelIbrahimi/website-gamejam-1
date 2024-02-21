@@ -83,10 +83,14 @@ main{
     align-items: center;
     margin-top: 10px;
 }
-/* .twilight-turbo-title{
-
-} */
-/* hier begint ABOUT */
+.twilight-turbo-title{
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} 
 
 /* hier begint ABOUT 
 *
