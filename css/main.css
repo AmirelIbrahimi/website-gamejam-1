@@ -302,7 +302,6 @@ main{
 .col-25{
     height: auto;
     width: 25%;
-
 }
 .nijmegen{
     padding-right: 2%; 
@@ -318,7 +317,11 @@ main{
     align-items: center;
 }
 /* eindicht about */
-
+p{
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
 
 /* .niks-row-our-game{
     height: 80px;
