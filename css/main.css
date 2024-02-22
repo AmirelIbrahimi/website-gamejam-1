@@ -302,13 +302,13 @@ main{
 .col-25{
     height: auto;
     width: 25%;
-    background-color: azure;
+
 }
 .nijmegen{
     padding-right: 2%; 
     display: flex;
     height: auto;
-    width: 75%;
+    width: 100%;
 }
 .studio-nijmegen{
     width: 100%;
